@@ -1,4 +1,4 @@
-# DoubtNut Assignment
+# DoubtNut Assignment [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/e8d178746edfde6f1c41)
 
 ### Prerequisite before starting the server:
 ```
