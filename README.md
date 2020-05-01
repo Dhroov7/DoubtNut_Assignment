@@ -26,3 +26,8 @@
 1. Put the credentials of your email account on line 27 and 28 in server.js file.
 2. Set the senders email ID again on line 44 in server.js file.
 ```
+
+### Some more information:
+```
+* You can send JSON as a file or as a string with key 'jsonData'.
+```
