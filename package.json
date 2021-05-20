@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
     "hbs": "^4.1.1",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "node-cron": "^2.0.3",
     "nodemailer": "^6.4.6",
     "prexview": "^1.1.0",
